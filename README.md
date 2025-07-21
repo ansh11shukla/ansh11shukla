@@ -1,9 +1,4 @@
-## Hi there 👋
 
-<!--
-**ansh11shukla/ansh11shukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:[README.md](https://github.com/user-attachments/files/21345670/README.md)<!-- Header Section -->
 <h2 align="center">👋 Hello, I'm Anshul Shukla</h2>
 <h4 align="center">Quality Analyst (Manual + Automation) | Detail-Oriented | Committed to Quality Delivery</h4>
 
