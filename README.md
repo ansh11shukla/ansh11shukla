@@ -6,9 +6,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg4OXQwMGF5MW9rczY4NmE0MWtsdTZyaW1rYzNwOXQzdmY0MWptdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Testing gif">
 </p>
 
-
-
-
 ---
 
 ### 👨‍💻 About Me
@@ -55,17 +52,5 @@ I’m a **Quality Analyst** with experience in **manual testing** across **web a
 ---
 
 <p align="center">
-  🚀 _Driving Software Quality Through Smart Testing and Relentless Attention to Detail_ 🚀
+  🚀 Driving Software Quality Through Smart Testing and Relentless Attention to Detail 🚀
 </p>
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
